@@ -1,8 +1,5 @@
 ### Hello World,
 # I am Erdum <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=erdum.erdum)
-
-I don't use any social media ✖️
 
 [Hire me as a Fullstack Developer 💼](mailto:erdumadnan@gmail.com)
 
@@ -21,6 +18,8 @@ const userData = {
   curiosity_level: "x1000"
 };
 ```
+I don't use any social media ✖️
+
 ### Technology Stack
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -46,4 +45,7 @@ const userData = {
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erdum&show_icons=true&include_all_commits=true&icon_color=e95420&title_color=e95420)](https://github.com/anuraghazra/github-readme-stats)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdum&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=erdum.erdum)
 
