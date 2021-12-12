@@ -1,11 +1,12 @@
 ### Hello World,
 # I am Erdum <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-##### [Hire me as a Fullstack Developer 💼](mailto:erdumadnan@gmail.com)
+##### [Hire me as a Fullstack Software Engineer 💼](mailto:erdumadnan@gmail.com)
+##### [Hire me as a Low Level Embedded Programmer 💼](mailto:erdumadnan@gmail.com)
 
 ##### Explore my country [Pakistan :pakistan:](https://www.google.com/travel/things-to-do?g2lb=2503771%2C4624411%2C4684911%2C4270442%2C4317915%2C4371335%2C4258168%2C4640247%2C4306835%2C4401769%2C4672717%2C4596364%2C4644488%2C4597339%2C4661273%2C2503781%2C2502548%2C4419364%2C4641139%2C4605861%2C4284970%2C4270859%2C4291517&hl=en-PK&gl=pk&cs=1&ssta=1&dest_mid=%2Fm%2F05sb1&dest_state_type=main&dest_src=o&sa=X&ved=2ahUKEwiB7evfpdn0AhWNCOwKHZTDC8AQ6tEBKAR6BAhQEAs#ttdm=30.230854_71.259611_6&ttdmf=%252Fm%252F0248y5)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23fcc624&size=18&vCenter=true&multiline=true&width=800&height=100&lines=I+am+a+17+years+old+self+taught+professional+fullstack++web+developer%2C;electronics+%26+aviation+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23fcc624&size=18&vCenter=true&multiline=true&width=1100&height=100&lines=I+am+a+17+years+old+self+taught+professional+fullstack+software+engineer+%2F+embedded+programmer%2C;electronics+%26+aviation+enthusiast%2E+My+level+of+understanding+is+from+Assembly+to+Web+api%27s%2E)](https://git.io/typing-svg)
 
 ```js
 const userData = {
