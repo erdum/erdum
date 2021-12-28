@@ -13,11 +13,9 @@ const userData = {
   date_of_birth: "29-10-2004",
   coding_since: "2018",
   career_started: "2020",
-  find_me_on: "twitter.com/@erdumadnan",
+  find_me_on: "twitter.com/erdumadnan",
   working: "as a freelancer",
-  career: "growing",
-  things_which_fascinate_me: "how internet works",
-  curiosity_level: "x1000"
+  career: "growing"
 };
 ```
 
