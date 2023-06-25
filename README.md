@@ -10,7 +10,10 @@ const userData = {
   date_of_birth: "29-10-2004",
   coding_since: "2018",
   career_started: "2020",
-  find_me_on: "twitter.com/erdumadnan",
+  find_me_on: [
+    "twitter.com/erdumadnan",
+    "linkedin.com/in/erdum"
+  ],
   working: "as a freelancer",
   career: "growing"
 };
