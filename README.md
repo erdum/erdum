@@ -44,7 +44,3 @@ const userData = {
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erdum&show_icons=true&include_all_commits=true&icon_color=e95420&title_color=e95420)](https://github.com/anuraghazra/github-readme-stats)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdum&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=erdum.erdum)
-
