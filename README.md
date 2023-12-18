@@ -1,4 +1,4 @@
-# I am Erdum (!PhD) but nothing < a Scientist
+# I am Erdum (!PhD)
 
 I am a Software Developer by profession and an Electronics enthusiast interested in Aviation, STEM, and Motor Sports.
 
