@@ -4,7 +4,6 @@ I am a Software Developer by profession and an Electronics enthusiast interested
 
 ## Find me on
 [![Linkedin Profile](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/erdum)
-[![Linkedin Profile](https://skillicons.dev/icons?i=twitter)](https://twitter.com/erdumadnan)
 
 ```js
 const userData = {
