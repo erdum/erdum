@@ -1,6 +1,6 @@
 # I am Erdum (!PhD)
 
-I am a Software Developer by profession and an Electronics enthusiast interested in Aviation, STEM, and Motor Sports.
+I am a Software Developer by profession and an Electronics enthusiast interested in Aviation, STEM, Geopolitics, and Motor Sports.
 
 ## Find me on
 [![Linkedin Profile](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/erdum)
@@ -28,4 +28,4 @@ const userData = {
 > [!TIP]
 > I work with these technologies but I am not limited by technologies, I believe in Engineering
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erdum&show_icons=true&include_all_commits=true&icon_color=e95420&title_color=e95420)](https://github.com/anuraghazra/github-readme-stats)\
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erdum&show_icons=true&include_all_commits=true&icon_color=e95420&title_color=e95420)](https://github.com/anuraghazra/github-readme-stats)
