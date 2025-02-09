@@ -14,7 +14,7 @@ const userData = {
 ```
 
 ### Back-end Stack
-![My Skills](https://skillicons.dev/icons?i=php,laravel,golang)
+![My Skills](https://skillicons.dev/icons?i=php,laravel,golang,nodejs)
 
 ### Front-end Stack
 ![My Skills](https://skillicons.dev/icons?i=tailwind,html,js,react)
